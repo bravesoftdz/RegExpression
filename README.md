@@ -2,6 +2,23 @@
 ![Image alt](https://github.com/gvozdev1986/RegExpression/blob/master/resources/RegEx.png)
 <i>Регулярное выражение в JAVA</i>
 
+# Used
+Standart libraries:
+1. java.util.regex.Matcher;
+2. java.util.regex.Pattern;
+
+Application:
+1. Declare a variable (<b>pattern</b>) with a regular expression.
+2. <b>Compiles</b> the given regular expression into a pattern.
+3. Creates a <b>matcher</b> that will match the given input against this pattern.
+
+Example:
+```java
+Pattern pattern = Pattern.compile("^Ivan$"); // create regex
+Matcher matcher = pattern.matcher("Ivan"); // create rule to formal parameters
+matcher.matches(); // return result conformity string with rule
+```
+
 <table>
     <tr>
         <td colspan = "4"> Description of symbols in a regular expression. </ td>
