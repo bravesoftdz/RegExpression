@@ -43,7 +43,7 @@ matcher.matches(); // return result conformity string with rule
         <td> 5 </ td> <td>? </ td> <td> The first digit is mandatory. </ td>
     </ tr>
     <tr>
-        <td> 6 </ td> <td> "</ td> <td> Any number of element instances (and zero). </ td>
+        <td> 6 </ td> <td> *</ td> <td> Any number of element instances (and zero). </ td>
     </ tr>
     <tr>
         <td> 7 </ td> <td> \ d </ td> <td> Matches any digit; the equivalent of class [0-9]. </ td>
