@@ -1,6 +1,6 @@
 # <i>Regular expression in JAVA</i>
 ![Image alt](https://github.com/gvozdev1986/RegExpression/blob/master/resources/RegEx.png)
-
+Simple regular excpression for checking email, IP, telephone number (for Belarus).
 # Used
 Standart libraries:
 1. java.util.regex.Matcher;
