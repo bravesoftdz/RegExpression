@@ -1,6 +1,5 @@
 # <i>Regular expression in JAVA</i>
 ![Image alt](https://github.com/gvozdev1986/RegExpression/blob/master/resources/RegEx.png)
-<i>Регулярное выражение в JAVA</i>
 
 # Used
 Standart libraries:
