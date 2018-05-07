@@ -20,7 +20,7 @@ matcher.matches(); // return result conformity string with rule
 
 <table>
     <tr>
-        <td colspan = "4"> Description of symbols in a regular expression. </ td>
+        <td colspan = "4" align="center"> Description of symbols in a regular expression. </ td>
     </ tr>
     <tr>
         <td> # </ td>
